@@ -24,7 +24,3 @@ A modern, responsive e-commerce frontend built with React, TypeScript, and Tailw
 ## Live Demo
 
 [https://velora-ecommerce-delta.vercel.app/]
-
-## Screenshots
-
-(Add screenshots here)
